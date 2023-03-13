@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secim_API", "Secim_API\Secim_API.csproj", "{15B8D55B-95DE-40DE-9814-3FB99A395718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{CB5C6804-0A14-4A1C-9F9A-02F27E35936E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B8D55B-95DE-40DE-9814-3FB99A395718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B8D55B-95DE-40DE-9814-3FB99A395718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B8D55B-95DE-40DE-9814-3FB99A395718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B8D55B-95DE-40DE-9814-3FB99A395718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5C6804-0A14-4A1C-9F9A-02F27E35936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5C6804-0A14-4A1C-9F9A-02F27E35936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5C6804-0A14-4A1C-9F9A-02F27E35936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5C6804-0A14-4A1C-9F9A-02F27E35936E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC0A5C7-21CF-4D3C-B168-9D3970C1AA9B}
+	EndGlobalSection
+EndGlobal
